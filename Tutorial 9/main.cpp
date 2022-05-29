@@ -1,5 +1,5 @@
 //**********************************************************************************//
-//Tutirial 9  -  Github                                //   
+//Tutorial 9  -  Github                                //   
 //**********************************************************************************//
 //                                                                                  //                    
 // General    > Dir salida:           >  $(SolutionDir)\Bin                         //
@@ -11,7 +11,7 @@
 //                                                                                  //                         
 // Avanzado > Juego de caract  >  Multibyte                                         //
 // C/C++      > General               >  Comp multiproc          > Si               //
-//                 > Optimizacion     >  Tamaño o velocidad      > Codigo rapido    //
+//                 > Optimizacion     >  TamaÃ±o o velocidad      > Codigo rapido    //
 //                 > Gen de codigo    >  Bib en tiempo de eje    > MT    (Release)  //
 //                 >                  >  Bib en tiempo de eje    > MTd  (Debug)     //
 //                 >                  >  Modelo de punt flota    > Rapido           //
